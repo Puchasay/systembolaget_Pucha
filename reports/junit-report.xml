@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;" tests="4" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/PuchantiQ/Desktop/systembolaget/features/us3.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the start page of Systembolaget" classname="as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;" time="6.154210107">
+        </testcase>
+        <testcase name="When I want to check the opening hours of systembolaget in Burlöv Centrum" classname="as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;" time="10.658745152">
+        </testcase>
+        <testcase name="And I check on Kristi himmelsfärd day" classname="as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;" time="1.530913311">
+        </testcase>
+        <testcase name="Then I can see it is closed on Kristi himmelsfärd day" classname="as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;" time="0.809148508">
+        </testcase>
+    </testsuite>
+</testsuites>

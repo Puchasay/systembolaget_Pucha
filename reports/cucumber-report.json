@@ -1,0 +1,86 @@
+[
+  {
+    "elements": [
+      {
+        "id": "as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum;",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the start page of Systembolaget",
+            "result": {
+              "status": "passed",
+              "duration": 6154210107
+            },
+            "line": 4,
+            "match": {
+              "location": "/Users/PuchantiQ/Desktop/systembolaget/step-definitions/us3.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I want to check the opening hours of systembolaget in Burlöv Centrum",
+            "result": {
+              "status": "passed",
+              "duration": 10658745152
+            },
+            "line": 5,
+            "match": {
+              "location": "/Users/PuchantiQ/Desktop/systembolaget/step-definitions/us3.js:22"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I check on Kristi himmelsfärd day",
+            "result": {
+              "status": "passed",
+              "duration": 1530913311
+            },
+            "line": 6,
+            "match": {
+              "location": "/Users/PuchantiQ/Desktop/systembolaget/step-definitions/us3.js:67"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I can see it is closed on Kristi himmelsfärd day",
+            "result": {
+              "status": "passed",
+              "duration": 809148508
+            },
+            "line": 7,
+            "match": {
+              "location": "/Users/PuchantiQ/Desktop/systembolaget/step-definitions/us3.js:79"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 139971716
+            },
+            "hidden": true,
+            "match": {
+              "location": "/Users/PuchantiQ/Desktop/systembolaget/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-user-i-want-to-be-able-to-check-opening-hours-on-kristi-himmelsfärd-day-in-systembolaget-burlöv-centrum",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "As a user I want to be able to check opening hours on Kristi himmelsfärd day in Systembolaget Burlöv Centrum",
+    "tags": [],
+    "uri": "/Users/PuchantiQ/Desktop/systembolaget/features/us3.feature"
+  }
+]
